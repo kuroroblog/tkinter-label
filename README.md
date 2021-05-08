@@ -1,5 +1,5 @@
-# tkinter-place
-Tkinterのplaceについてのコード
+# tkinter-label
+Tkinterのlabelについてのコード
 
 # 参考記事
-https://kuroro.blog/python/JyaHUKyFyxCa0baFfXg0/
+
