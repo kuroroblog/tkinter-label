@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class Application(tk.Frame):
     def __init__(self, master=None):
         # Windowの初期設定を行う。
