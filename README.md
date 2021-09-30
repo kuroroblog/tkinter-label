@@ -1,5 +1,5 @@
 # tkinter-label
-Tkinterのlabelについてのコード
+Tkinterのlabelに関するコード
 
 # 参考記事
 https://kuroro.blog/python/Pj4Z7JBNRvcHZvtFqiKD/
